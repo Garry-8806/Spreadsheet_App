@@ -1,8 +1,8 @@
-Some Steps to run App
-First use git Clone Commend is vs code terminal git clone [URL]
-Intall Dependecies using NPM install
-now run the app using npm run dev command
-it will open in http://localhost:3000/
+# Some Steps to run App
+1) First use git Clone Commend is vs code terminal git clone [URL]
+2) Intall Dependecies using NPM install
+3) now run the app using npm run dev command
+ 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
